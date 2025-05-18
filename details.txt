@@ -1,0 +1,4 @@
+   "DETAILS"
+ name : ashika.v
+ class: 2nd bca
+ roll no: 23bcac14
